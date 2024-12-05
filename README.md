@@ -31,3 +31,7 @@
 27. 新闻管理系统
 28. 民宿预约系统
 29. 婚恋交友管理系统
+    ………………………………
+    ![image](https://github.com/user-attachments/assets/4e64539b-75e5-497b-ad87-7a31c2ce96c9)
+![image](https://github.com/user-attachments/assets/e85e4f9d-1105-40ef-b993-c56ec9ba4f45)
+
